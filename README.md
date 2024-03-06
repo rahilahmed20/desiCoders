@@ -19,6 +19,17 @@ from deepfake_image_detection import classify_image_from_url
 result = classify_image_from_url("https://example.com/image.jpg")
 print("Result:", result)
 
+from deepfake_image_detection import classify_image_from_url
+
+# Example usage
+image_url = "https://www.chambermusicarts.com.sg/wp-content/uploads/2015/01/Cheryl-Kjm.jpeg"
+result = classify_image_from_url(image_url)
+
+if(result == 0):
+    print('Fake')
+else:
+    print('Real Image')
+
 # Description
 This package provides a pre-trained deepfake image detection model that can classify images as real or fake. It uses PyTorch for deep learning tasks and transformers for natural language processing.
 
