@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/deepfake_image_detection/__init__.py
+src/deepfake_image_detection/main.py
+src/deepfake_image_detection.egg-info/PKG-INFO
+src/deepfake_image_detection.egg-info/SOURCES.txt
+src/deepfake_image_detection.egg-info/dependency_links.txt
+src/deepfake_image_detection.egg-info/top_level.txt
