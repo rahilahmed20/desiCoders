@@ -1,8 +1,0 @@
-setup.py
-deepfake_image_detection/__init__.py
-deepfake_image_detection/main.py
-deepfake_image_detection.egg-info/PKG-INFO
-deepfake_image_detection.egg-info/SOURCES.txt
-deepfake_image_detection.egg-info/dependency_links.txt
-deepfake_image_detection.egg-info/requires.txt
-deepfake_image_detection.egg-info/top_level.txt
